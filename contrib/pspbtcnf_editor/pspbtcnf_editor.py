@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 
 """
 pspbtcnf_editor: An script that add modules from pspbtcnf

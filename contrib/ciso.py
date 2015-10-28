@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 
 # Copyright (c) 2011 by Virtuous Flame
 # Based BOOSTER 1.01 CSO/ZSO Compressor
